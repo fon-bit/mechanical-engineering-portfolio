@@ -20,5 +20,7 @@ The Nova Spot Micro 3 was our senior design capstone project. The goal was to de
 - Verified the frame could withstand a total weight of up to 15 lbs.  
 - Simulated stair climbing and walking sequences.  
 
-📄 [Final Report (PDF)](Report.pdf)  
-📊 [Presentation Slides (PDF)](Presentation.pdf)  
+📄 [Final Report (PDF)](https://github.com/user-attachments/files/22549265/Final.Report.pdf)
+)  
+📊 [Presentation Slides (PPT)](https://github.com/user-attachments/files/22549271/Final.Presentaion.28_04_25.pptx)
+)  
