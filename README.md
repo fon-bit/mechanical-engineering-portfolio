@@ -43,4 +43,4 @@ Each project folder contains:
 ---
 
 ## 📬 Contact
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/fontanna-vo-6ab0a2368/]) or via email: **fontanna_vo@aol.com**.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fontanna-vo-6ab0a2368/) or via email: **fontanna_vo@aol.com**.
