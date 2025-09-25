@@ -21,6 +21,6 @@ The Nova Spot Micro 3 was our senior design capstone project. The goal was to de
 - Simulated stair climbing and walking sequences.  
 
 📄 [Final Report (PDF)](https://github.com/user-attachments/files/22549265/Final.Report.pdf)
-)  
-📊 [Presentation Slides (PPT)](https://github.com/user-attachments/files/22549271/Final.Presentaion.28_04_25.pptx)
-)  
+
+📊 [Presentation Slides (PPT)](https://docs.google.com/presentation/d/1IdZfZeLV0K9Kxx9CyLxk7PHI92A-8LUg/edit?usp=sharing&ouid=114097951442554774902&rtpof=true&sd=true)
+
