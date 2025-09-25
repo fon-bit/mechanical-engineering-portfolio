@@ -1,5 +1,3 @@
-# mechanical-engineering-portfolio
-Project Documents from University
 # Engineering Portfolio
 
 Welcome! This repository showcases selected coursework and projects from my **Mechanical Engineering** degree, including my senior **Capstone Project: Nova Spot Micro 3**.
