@@ -23,4 +23,6 @@ This project applied **Finite Element Analysis (FEA)** in **ANSYS** to study the
 ANSYS Mechanical • Finite Element Analysis (FEA) • Structural Mechanics • Meshing • Stress Analysis  
 
 ## Deliverables
-📄 [Project Report (PDF)](Report.pdf)  
+
+📄 [Project Report (PDF)](https://github.com/user-attachments/files/22567946/Project.1.432.pdf)
+
