@@ -29,4 +29,5 @@ These results demonstrate how CFD can reveal inefficiencies and improve the unde
 ANSYS Fluent • CFD • Fluid Flow Analysis • Meshing • Numerical Simulation  
 
 ## Deliverables
-📄 [Project Report (PDF)](Report.pdf)  
+📄 [Project Report (PDF)](https://github.com/user-attachments/files/22568237/Project.1.330.pdf)
+
