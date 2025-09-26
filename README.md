@@ -19,17 +19,31 @@ Each project folder contains:
 
 ---
 
-### 🔹 [Heat Conduction Simulation](Heat_Conduction_Simulation/README.md)
-- **Objective:** Simulated 2D heat conduction in a material with varying boundary conditions.  
+### 🔹 [Transient Simulation](Transient_Simulation/README.md)
+- **Objective:** Simulated 2D heat conduction in a material with varying boundary conditions
 - **Tools:** ANSYS  
-- **Deliverables:** Report with results
+- **Deliverables:** Report how to use transient simulation to show results at specific time and show quantitative results
 
 ---
 
-### 🔹 [Mechanical Vibrations Project](Vibrations_Project/README.md)
-- **Objective:** Analyzed a 1-DOF undamped vibration system with initial conditions
+### 🔹 [Bracket Static Structural Study](MEEN_432/README.md)
+- **Objective:** Using FEA to analyze a bracket
 - **Tools:** ANSYS  
-- **Deliverables:** Report summarizing theoretical and simulated responses
+- **Deliverables:** Report showing the understanding of FEA and how to solve for results
+
+---
+
+### 🔹 [Ansys Modal Analysis](MEEN_432/README.md)
+- **Objective:** Perform a modal analysis on a bracket
+- **Tools:** ANSYS
+- **Deliverables:** Report showing the understanding of modal analysis and how to solve natural frequencies in a system
+  
+---
+
+### 🔹 [Fluid CFD Course Project](CFD_Project/README.md)
+- **Objective:** Analyze fluid flow and heat transfer in a system. Understand ANSYS software and interpret data results
+- **Tools:** ANSYS
+- **Deliverables:** Report summarizing data and understanding of CFD
 
 ---
 
