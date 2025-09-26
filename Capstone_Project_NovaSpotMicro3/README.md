@@ -51,7 +51,7 @@ Fusion360 • ANSYS • PLA 3D Printing • MATLAB (simulation) • Control Syst
 ## Demo Video
 🎥 Watch the simulation in action:
 
-<video src="[demo.mp4](https://dl.dropbox.com/scl/fi/foar71cp5vjjthe9ee6q7/Single-Force-Stress-Video.wmv?rlkey=0uf27a6ja5whz3fgsve6wn1ij&st=zpk7p6yz&)" controls width="600"></video>
+<video src="(https://dl.dropbox.com/scl/fi/foar71cp5vjjthe9ee6q7/Single-Force-Stress-Video.wmv?rlkey=0uf27a6ja5whz3fgsve6wn1ij&st=zpk7p6yz&)" controls width="600"></video>
 
 
 
