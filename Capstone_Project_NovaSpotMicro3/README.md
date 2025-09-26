@@ -42,11 +42,17 @@ Fusion360 • ANSYS • PLA 3D Printing • MATLAB (simulation) • Control Syst
 
 ## Deliverables
 📄 [Final Report (PDF)](https://github.com/user-attachments/files/22549265/Final.Report.pdf)
+
 📊 [Presentation Slides (PPT)](https://docs.google.com/presentation/d/1IdZfZeLV0K9Kxx9CyLxk7PHI92A-8LUg/edit?usp=sharing&ouid=114097951442554774902&rtpof=true&sd=true) 
-🖼️ (Optional) Add images, CAD renders, or prototype photos here  
+
+🖼️
 ![Nova SM3](https://github.com/user-attachments/assets/13f3084c-90a2-417b-b234-465fe6dcec3d)
 ![CAD Model](https://github.com/user-attachments/assets/4bff061c-5ada-4b67-b371-46fab4c32a5e)
-https://github.com/user-attachments/assets/1bd30fb1-4f5d-4fec-8635-8191eea21783
+## Demo Video
+🎥 Watch the simulation in action:
+
+<video src="[demo.mp4](https://dl.dropbox.com/scl/fi/foar71cp5vjjthe9ee6q7/Single-Force-Stress-Video.wmv?rlkey=0uf27a6ja5whz3fgsve6wn1ij&st=zpk7p6yz&)" controls width="600"></video>
+
 
 
 
