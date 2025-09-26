@@ -51,11 +51,11 @@ Fusion360 • ANSYS • PLA 3D Printing • MATLAB (simulation) • Control Syst
 ## Demo Video
 🎥 Watch the simulation in action:
 
-<video src="
+
 
 https://github.com/user-attachments/assets/5e6ff84b-02e4-48e5-a3a0-9431d87e1eb9
 
-" controls width="600"></video>
+
 
 
 
