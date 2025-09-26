@@ -28,7 +28,7 @@ As a **Mechanical Engineer**, my key roles included:
 
 ## Results
 - Developed a functional quadruped prototype with validated frame strength
-- Verified leg clearance during walking and stair-climbing through motion simulation
+- Verified leg clearance during walking through motion simulation
 - Integrated electronics successfully with the pre-built motor system
 - Demonstrated feasibility of low-cost quadruped robotics using additive manufacturing
 
