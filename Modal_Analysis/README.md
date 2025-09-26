@@ -22,4 +22,5 @@ The analysis provided the bracket’s natural frequencies and corresponding mode
 ANSYS Mechanical • Modal Analysis • Structural Dynamics • Finite Element Analysis (FEA)  
 
 ## Deliverables
-📄 [Project Report (PDF)](Report.pdf)  
+📄 [Project Report (PDF)](https://github.com/user-attachments/files/22567996/Project.2.432.pdf)
+
