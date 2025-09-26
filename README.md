@@ -26,14 +26,14 @@ Each project folder contains:
 
 ---
 
-### 🔹 [Bracket Static Structural Study](MEEN_432/README.md)
+### 🔹 [Bracket Static Structural Study](FEA/README.md)
 - **Objective:** Using FEA to analyze a bracket
 - **Tools:** ANSYS  
 - **Deliverables:** Report showing the understanding of FEA and how to solve for results
 
 ---
 
-### 🔹 [Ansys Modal Analysis](MEEN_432/README.md)
+### 🔹 [Ansys Modal Analysis](Modal_Analysis/README.md)
 - **Objective:** Perform a modal analysis on a bracket
 - **Tools:** ANSYS
 - **Deliverables:** Report showing the understanding of modal analysis and how to solve natural frequencies in a system
