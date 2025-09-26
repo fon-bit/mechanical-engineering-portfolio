@@ -17,26 +17,26 @@ As a **Mechanical Engineer**, my key roles included:
 ---
 
 ## Design & Analysis
-- **Frame:** 18 in × 4 in × 3 in, PLA (75% hollow, lightweight yet structurally sound).  
-- **Legs:** Coax–femur–tibia design, lengths 6 in (femur) and 5 in (tibia).  
-- **Load Capacity:** Designed for total robot weight ≤ 15 lbs.  
+- **Frame:** 18 in × 4 in × 3 in, PLA (75% hollow, lightweight yet structurally sound)
+- **Legs:** Coax–femur–tibia design, lengths 6 in (femur) and 5 in (tibia)
+- **Load Capacity:** Designed for total robot weight ≤ 15 lbs
 - **Analysis Performed:**  
-  - Stress and deflection analysis of PLA frame.  
-  - Clearance simulations for walking and stair climbing.  
-  - Verification of motor placement and load-bearing capability.  
+  - Stress and deflection analysis of PLA frame
+  - Clearance simulations for walking
+  - Verification of motor placement and load-bearing capability 
 
 ---
 
 ## Results
-- Developed a functional quadruped prototype with validated frame strength.  
-- Verified leg clearance during walking and stair-climbing through motion simulation.  
-- Integrated electronics successfully with the pre-built motor system.  
-- Demonstrated feasibility of low-cost quadruped robotics using additive manufacturing.  
+- Developed a functional quadruped prototype with validated frame strength
+- Verified leg clearance during walking and stair-climbing through motion simulation
+- Integrated electronics successfully with the pre-built motor system
+- Demonstrated feasibility of low-cost quadruped robotics using additive manufacturing
 
 ---
 
 ## Skills & Tools
-Fusion360 • ANSYS • PLA 3D Printing • MATLAB (simulation) • Control Systems • Multidisciplinary Teamwork  
+Fusion360 • ANSYS • 3D Printing • Control Systems • Multidisciplinary Team
 
 ---
 
