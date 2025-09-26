@@ -17,7 +17,6 @@ As a **Mechanical Engineer**, my key roles included:
 ---
 
 ## Design & Analysis
-- **Frame:** 18 in × 4 in × 3 in, PLA (75% hollow, lightweight yet structurally sound)
 - **Legs:** Coax–femur–tibia design, lengths 6 in (femur) and 5 in (tibia)
 - **Load Capacity:** Designed for total robot weight ≤ 15 lbs
 - **Analysis Performed:**  
