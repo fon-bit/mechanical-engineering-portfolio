@@ -3,7 +3,7 @@
 Welcome! This repository showcases selected coursework and projects from my **Mechanical Engineering** degree, including my senior **Capstone Project: Nova Spot Micro 3**.
 
 Each project folder contains:
-- Project Report (PDF)
+- Project Report 
 - Supporting files (code, data, presentations)
 - A README with project overview
 
