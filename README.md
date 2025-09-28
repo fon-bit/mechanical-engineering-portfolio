@@ -4,7 +4,7 @@ Welcome! This repository showcases selected coursework and projects from my **Me
 
 Each project folder contains:
 - Project Report 
-- Supporting files (code, data, presentations, photos)
+- Supporting files (data, presentations, photos)
 - A README with project overview
 
 ---
