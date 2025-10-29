@@ -11,7 +11,7 @@ This project integrated **mechanical design, structural analysis, electronics, a
 As a **Mechanical Engineer**, my key roles included:  
 - **3D CAD Modeling** – Designed the robot’s rectangular frame and leg components in *Fusion360*.  
 - **Stress Analysis** – Conducted structural verification of the PLA frame and leg design using *ANSYS*.  
-- **Motion Simulation** – Modeled walking sequences and stair-climbing clearance.  
+- **Motion Simulation** – Modeled walking sequences and walking clearance.  
 - **Collaboration** – Coordinated with electrical and computer teammates to ensure mechanical design compatibility with motors, sensors, and controllers.  
 
 ---
