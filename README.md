@@ -19,6 +19,13 @@ Each project folder contains:
 
 ---
 
+### 🔹 [JanKey40](Keyboard PCB/README.md)
+- **Objective:** Create custom keyboard from scratch!
+- **Tools:** KiCad, Fusion 360  
+- **Deliverables:** Design and create case, pcb, and plate for 40% keyboard!
+
+---
+
 ### 🔹 [Transient Simulation](Transient_Simulation/README.md)
 - **Objective:** Simulated 2D heat conduction in a material with varying boundary conditions
 - **Tools:** ANSYS  
