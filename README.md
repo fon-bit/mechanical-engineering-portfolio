@@ -19,7 +19,7 @@ Each project folder contains:
 
 ---
 
-### 🔹 [JanKey40](Keyboard/README.md)
+### 🔹 [JanKey40](JanKey40/README.md)
 - **Objective:** Create custom keyboard from scratch!
 - **Tools:** KiCad, Fusion 360  
 - **Deliverables:** Design and create case, pcb, and plate for 40% keyboard!
