@@ -14,6 +14,3 @@ This is a personal project of mine (feel free to use any file as your own!). Alw
 -40% keyboard PCB
 -Custom Case Design 
 -Final Assembly of keyboard
-
-
-## Files
