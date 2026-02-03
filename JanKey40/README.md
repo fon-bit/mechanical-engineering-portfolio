@@ -7,7 +7,7 @@ This is a personal passion of mine and I've always wanted to try a 40% keyboard 
 
 ## Objectives
 - Designed a custom 40% mechanical keyboard from scratch
-- Designed in KiCad, manufacturable PCB (*under review @manufactors*)
+- Designed in KiCad, manufacturable PCB (*under review @manufactures*)
 - Case design using Fusion360 (**in progress**)
 
 ## Deliverables
