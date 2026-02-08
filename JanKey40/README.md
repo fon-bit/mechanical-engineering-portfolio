@@ -15,6 +15,6 @@ This is a personal passion of mine and I've always wanted to try a 40% keyboard 
 - Custom Case Design 
 - Final Assembly of keyboard
 
-[Click for 3D View](JanKey40/JanKey40_3D.mp4)
+[Click for 3D View](JanKey40_3D.mp4)
 
 **Current files include PCB schematics, pcb and project from KiCad (feel free to download and create your own!)**
