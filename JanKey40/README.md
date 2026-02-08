@@ -15,8 +15,8 @@ This is a personal passion of mine and I've always wanted to try a 40% keyboard 
 - Custom Case Design 
 - Final Assembly of keyboard
 
-### 3D View
+### 3D Rendered View
 https://github.com/user-attachments/assets/538c7cc5-f102-4d41-b5ae-06a9d26cafba
-
+*Case material: anodized aluminum blue* 
 
 **Current files include PCB schematics, pcb and project from KiCad (feel free to download and create your own!)**
