@@ -19,7 +19,7 @@ This is a personal passion of mine and I've always wanted to try a 40% keyboard 
 
 https://github.com/user-attachments/assets/bd2a3828-73c8-46a6-a715-73c00b7ea09d
 
-
+*Case material: anodized aluminum blue (top case) anodized aluminum red (bottom case render)* 
 
 
 ## PHOTOS
